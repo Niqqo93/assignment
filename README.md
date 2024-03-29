@@ -8,7 +8,17 @@ Maven
 Spring boot
 
 
-### Installation
+
+### Installation via Git
+
+* Skapa en mapp på datorn.
+* Högerklicka på mappen och öppna med CMD eller Powershell
+* Skriv följande https://github.com/Niqqo93/assignment.git
+* * Öppna mappen med ett IDE, till exempel IntelliJ: https://www.jetbrains.com/idea/?var=1
+* Kör programmet genom att trycka på den gröna pilen längst upp till höger, alternativt tryck SHIFT + F10 för att starta
+* Ladda ner och installera POSTMAN för att testa skicka textsträngar till applikationen: https://www.postman.com/
+
+### Installation - Vanlig nerladdning
 
 * Ladda ner zip filen från github: https://github.com/Niqqo93/assignment/archive/refs/heads/main.zip
 * Packa upp mappen någonstans på datorn
