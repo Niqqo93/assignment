@@ -28,6 +28,6 @@ Spring boot
 * Det går nu att fylla i text i den stora rutan och klicka på "Send" så kommer ett svar tillbaka med de 10 mest förekommande orden i strängen du skickat in.
 
 
-## Authors
+## Skriven av
 
 Sebastian Granlund
