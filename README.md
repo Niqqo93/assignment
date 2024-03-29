@@ -1,6 +1,5 @@
 # Word Frequency Checker
-
-
+Programmet kollar hur frekvent ord förekommer och retunrerar 10 mest använda orden ur en textmassa samt antalet gånger de förekom
 
 ## Information
 
@@ -11,48 +10,23 @@ Spring boot
 
 ### Installation
 
-* Ladda ner zip filen från github: 
-* Any modifications needed to be made to files/folders
+* Ladda ner zip filen från github: https://github.com/Niqqo93/assignment/archive/refs/heads/main.zip
+* Packa upp mappen någonstans på datorn
+* Öppna mappen med ett IDE, till exempel IntelliJ: https://www.jetbrains.com/idea/?var=1
+* Kör programmet genom att trycka på den gröna pilen längst upp till höger, alternativt tryck SHIFT + F10 för att starta
+* Ladda ner och installera POSTMAN för att testa skicka textsträngar till applikationen: https://www.postman.com/
 
-### Executing program
+#### Testa programmet
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* För att testa programmet öppna upp Postman
+* Skapa en ny request av typen POST
+* I adressfältet fyll i: http://localhost:4500/api/v1/sort/topTopMostFrequentWords
+* Under adressfältet välj fliken "Body"
+* Välj sedan "raw" och längst till höger på samma rad välj "Text".
 
-## Help
+* Det går nu att fylla i text i den stora rutan och klicka på "Send" så kommer ett svar tillbaka med de 10 mest förekommande orden i strängen du skickat in.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Sebastian Granlund
