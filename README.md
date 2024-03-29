@@ -1,4 +1,5 @@
 # Word Frequency Checker
+
 Programmet kollar hur frekvent ord förekommer och retunrerar 10 mest använda orden ur en textmassa samt antalet gånger de förekom
 
 ## Information
@@ -7,7 +8,7 @@ Java version 17
 Maven
 Spring boot
 
-
+## Installation - Välj en av varianterna git eller vanlig nerladdning
 
 ### Installation via Git
 
