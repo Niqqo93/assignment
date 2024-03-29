@@ -12,6 +12,7 @@ Spring boot
 
 * Ladda ner zip filen från github: https://github.com/Niqqo93/assignment/archive/refs/heads/main.zip
 * Packa upp mappen någonstans på datorn
+* --- Om inte har ett program för att packa upp filer som är zipade rekommenderar jag winrar: https://www.rarlab.com/download.htm ---
 * Öppna mappen med ett IDE, till exempel IntelliJ: https://www.jetbrains.com/idea/?var=1
 * Kör programmet genom att trycka på den gröna pilen längst upp till höger, alternativt tryck SHIFT + F10 för att starta
 * Ladda ner och installera POSTMAN för att testa skicka textsträngar till applikationen: https://www.postman.com/
